@@ -12,8 +12,8 @@ before_script: ## 根据你所用的主题和自定义的不同，这里会有�
   - npm install -g hexo-cli # 在 CI 环境内安装 Hexo
   - mkdir themes # 由于我们没有将 themes/ 上传，所以我们需要新建一个
   - cd themes 
-  - git clone git@github.com:theme-next/hexo-theme-next.git next #从 Github 上拉取 Suka 主题
-  - cd next
+  - git clone git@github.com:theme-next/hexo-theme-next.git hexo-theme-next #从 Github 上拉取 Suka 主题
+  - cd hexo-theme-next
   - npm install --production # 安装 Suka 主题的依赖
   - cd ../.. # 返回站点根目录
   - cp _config.theme.yml themes/hexo-theme-next/_config.yml # 将主题的配置文件放回原处    
