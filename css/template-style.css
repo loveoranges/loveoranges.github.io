@@ -189,7 +189,7 @@ h1,h2,h3,h4,h5 {
     padding: 10px 20px;
     display: inline-block;
     text-transform: uppercase;
-    font-family: 'robotobold', serif;
+    font-family: 'robotobold';
 }
 
 .button.default {
@@ -207,14 +207,14 @@ h1,h2,h3,h4,h5 {
 
 .page-title {
     font-size: 20px;
-    font-family: 'robotobold', serif;
+    font-family: 'robotobold';
     text-transform: uppercase;
     margin-bottom: 7px;
 }
 
 .page-subtitle {
     font-size: 14px;
-    font-family: 'robotolight', serif;
+    font-family: 'robotolight';
     text-transform: uppercase;
 }
 
@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5 {
 
 .navbar-default a.navbar-brand {
     color: #fff;
-    font-family: 'robotoregular', serif;
+    font-family: 'robotoregular';
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -467,14 +467,14 @@ html,body {
 
 .carousel-caption h2 {
     font-size: 44px;
-    font-family: 'robotobold', serif;
+    font-family: 'robotobold';
     margin-bottom: 30px;
 }
 
 .carousel-caption p {
     font-size: 18px;
     line-height: 24px;
-    font-family: 'robotolight', serif;
+    font-family: 'robotolight';
     margin-bottom: 30px;
 }
 
@@ -546,7 +546,7 @@ html,body {
 
 #about h4 {
     font-size: 18px;
-    font-family: 'robotobold', serif;
+    font-family: 'robotobold';
     margin-bottom: 15px;
 }
 
@@ -672,7 +672,7 @@ html,body {
     border: 0;
     outline: 0;
     font-size: 13px;
-    font-family: 'robotoregular', serif;
+    font-family: 'robotoregular';
     color: #667991;
 }
 
@@ -691,7 +691,7 @@ html,body {
 
 .contact-info h4 {
     font-size: 18px;
-    font-family: 'robotobold', serif;
+    font-family: 'robotobold';
     margin-bottom: 30px;
 }
 
